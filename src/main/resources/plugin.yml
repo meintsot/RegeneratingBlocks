@@ -1,0 +1,10 @@
+name: RegeneratingBlocks
+version: '${project.version}'
+main: com.meintsot.regeneratingblocks.RegeneratingBlocks
+api-version: 1.16
+authors: [ SotosDeath ]
+description: A powerful plugin to create regenerating blocks similar to minigames such as Annihilation,The Bridge etc
+commands:
+  regenwand:
+    description: The tool you need to make blocks regen.
+    usage: /<command>
